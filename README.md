@@ -145,13 +145,10 @@ All the materials, including code, checkpoints, and demo, are made available und
 ## 🤩 Citation
 
 ```bibtex
-@misc{li2025magictryonharnessingdiffusiontransformer,
-      title={MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on}, 
-      author={Guangyuan Li and Siming Zheng and Hao Zhang and Jinwei Chen and Junsheng Luan and Binkai Ou and Lei Zhao and Bo Li and Peng-Tao Jiang},
-      year={2025},
-      eprint={2505.21325},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.21325}, 
+@article{li2025magictryon,
+  title={MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on},
+  author={Li, Guangyuan and Zheng, Siming and Zhang, Hao and Chen, Jinwei and Luan, Junsheng and Ou, Binkai and Zhao, Lei and Li, Bo and Jiang, Peng-Tao},
+  journal={arXiv preprint arXiv:2505.21325},
+  year={2025}
 }
 ```
